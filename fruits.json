@@ -1,0 +1,53 @@
+[
+  {
+    "name" : "Water Melon",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/watermelon-royalty-free-image-157374780-1554932730.jpg"
+  },
+  {
+    "name" : "Apple",
+    "price" : 1000,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/red-apples-at-market-royalty-free-image-155375750-1558116564.jpg"
+  },
+  {
+    "name" : "Mango",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/mangoes-composition-royalty-free-image-463651383-1564092088.jpg"
+  },
+  {
+    "name" : "Kiwi",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/full-frame-shot-of-kiwi-slices-royalty-free-image-742260967-1564092068.jpg"
+  },
+  {
+    "name" : "Water Melon",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/large-collection-of-fresh-red-cherries-royalty-free-image-186818188-1564092044.jpg"
+  }
+][
+  {
+    "name" : "Water Melon",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/watermelon-royalty-free-image-157374780-1554932730.jpg"
+  },
+  {
+    "name" : "Apple",
+    "price" : 1000,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/red-apples-at-market-royalty-free-image-155375750-1558116564.jpg"
+  },
+  {
+    "name" : "Mango",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/mangoes-composition-royalty-free-image-463651383-1564092088.jpg"
+  },
+  {
+    "name" : "Kiwi",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/full-frame-shot-of-kiwi-slices-royalty-free-image-742260967-1564092068.jpg"
+  },
+  {
+    "name" : "Water Melon",
+    "price" : 1200,
+    "image" : "https://hips.hearstapps.com/hmg-prod/images/large-collection-of-fresh-red-cherries-royalty-free-image-186818188-1564092044.jpg"
+  }
+]
