@@ -1,0 +1,139 @@
+{
+  "employee" :  [
+    {
+      "id": "1",
+      "name": "Arkar Min",
+      "team": "Mobile Team",
+      "position": "Mobile Developer",
+      "image":
+      "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/133261272/original/ca54e2266c5eb1447f57bf5771cf4b663774b1a3/make-minimalist-anime-character.png",
+    },{
+      "id": "2",
+      "name": "Aung Naing Phyo",
+      "team": "PC Team",
+      "position": "Project Coordinator",
+      "image":
+      "https://wallpapers.com/images/hd/anime-minimalist-m090x9wwz20wu9hr.jpg",
+    },{
+      "id": "3",
+      "name": "Myat Noe",
+      "team": "BM Team",
+      "position": "Business Management",
+      "image":
+      "https://i.pinimg.com/736x/cb/13/d5/cb13d5e168565df04ccbc3d7bd52a269--anime-shows-anime-girls.jpg",
+    },{
+      "id": "4",
+      "name": "Naing Lin Phyo",
+      "team": "Back-end Team",
+      "position": "Back-end Developer",
+      "image":
+      "https://yt3.googleusercontent.com/ytc/AGIKgqNbK8GrFWiSJVVjtZiv5bLbaHPstYO8eBpA4SzU=s900-c-k-c0x00ffffff-no-rj",
+    },{
+      "id": "5",
+      "name": "Su Sandi Shwe",
+      "team": "Mobile Team",
+      "position": "Mobile Developer",
+      "image":
+      "https://i.pinimg.com/originals/c6/7d/8b/c67d8bb08d343b5e6220acf1a4ee3f2c.jpghttps://i.pinimg.com/originals/c6/7d/8b/c67d8bb08d343b5e6220acf1a4ee3f2c.jpg",
+    },{
+      "id": "6",
+      "name": "Kyaw Phyoe Han",
+      "team": "Mobile Team",
+      "position": "Mobile Developer",
+      "image":
+      "https://wallpapers.com/images/hd/minimalist-faceless-tanjiro-pfp-4qkre7ddaei2tt8u.jpg",
+    },
+  ],
+  "thankYou" : [
+    {
+      "userId " : "1",
+      "comments" : [
+        {
+          "userId" : "2",
+          "comment" : "Kyay Zuu pr",
+        },
+        {
+          "userId" : "4",
+          "comment" : "Hoke kae",
+        },
+      ]
+    },
+    {
+      "userId " : "3",
+      "comments" : [
+        {
+          "userId" : "2",
+          "comment" : "Bite ma sarr thay buu",
+        },
+        {
+          "userId" : "6",
+          "comment" : "Nay kg lrr",
+        },
+      ]
+    },
+    {
+      "userId " : "6",
+      "comments" : [
+        {
+          "userId" : "5",
+          "comment" : "Thank youuuuu",
+        },
+        {
+          "userId" : "3",
+          "comment" : "Hoke kae",
+        },
+      ]
+    },
+  ],
+  "announcement" : [
+    {
+      "userId" : "1",
+      "post" : {
+        "description" : "D nae barrr hinn nae sarr yin kg malae?",
+        "date" : "2023-07-11",
+        "comments" : [
+          {
+            "userId" : "6",
+            "comment" : "Bae ouuu kg tl",
+          },
+          {
+            "userId" : "5",
+            "comment" : "Ma thi buu lay",
+          },
+        ]
+      },
+    },{
+      "userId" : "3",
+      "post" : {
+        "description" : "bl beer sai kg lae",
+        "date" : "2023-07-8",
+        "comments" : [
+          {
+            "userId" : "2",
+            "comment" : "Parami Idol good tl",
+          },
+          {
+            "userId" : "6",
+            "comment" : "wal tite ma lox lrr",
+          },
+        ]
+      },
+    },{
+      "userId" : "5",
+      "post" : {
+        "description" : "Good morning",
+        "date" : "2023-07-1",
+        "comments" : [
+          {
+            "userId" : "1",
+            "comment" : "morning",
+          },
+          {
+            "userId" : "2",
+            "comment" : "aa",
+          },
+        ]
+      },
+    },
+  ] 
+}
