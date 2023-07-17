@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "content": "Lorem Ipsum ....",
+    "comments": [
+      {
+        "userId": "2",
+        "content": "Lorem Ipsum ...."
+      },
+      {
+        "userId": "3",
+        "content": "Lorem Ipsum ...."
+      },
+      {
+        "userId": "1",
+        "content": "Lorem Ipsum ...."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "userId": "2",
+    "content": "Lorem Ipsum ....",
+    "comments": [
+      {
+        "userId": "1",
+        "content": "Lorem Ipsum ...."
+      },
+      {
+        "userId": "3",
+        "content": "Lorem Ipsum ...."
+      },
+      {
+        "userId": "2",
+        "content": "Lorem Ipsum ...."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "userId": "3",
+    "content": "Lorem Ipsum ....",
+    "comments": [
+      {
+        "userId": "2",
+        "content": "Lorem Ipsum ...."
+      },
+      {
+        "userId": "2",
+        "content": "Lorem Ipsum ...."
+      },
+      {
+        "userId": "1",
+        "content": "Lorem Ipsum ...."
+      }
+    ]
+  }
+]
