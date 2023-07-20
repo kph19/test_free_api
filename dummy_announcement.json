@@ -1,0 +1,44 @@
+{
+  "meta" : {
+    "status" : true,
+    "message" : "success"
+  },
+  "body" : [
+    {
+      "announcementId" : "1",
+      "createdBy" : "1",
+      "content" : "Hello! is anybody here?",
+      "dateTime" : "2023-07-20 08:03:00",
+      "comments" : [
+        {
+          "createdBy" : "2",
+          "comment" : "nice to meet you",
+          "dateTime" : "2023-07-20 08:06:00"
+        },
+        {
+          "createdBy" : "1",
+          "comment" : "nice to meet you too par",
+          "dateTime" : "2023-07-20 08:08:00"
+        }
+      ]
+    },
+    {
+      "announcementId" : "1",
+      "createdBy" : "1",
+      "content" : "Hello again! is anybody here?",
+      "dateTime" : "2023-07-20 08:12:00",
+      "comments" : [
+        {
+          "createdBy" : "2",
+          "comment" : "nice to meet you again",
+          "dateTime" : "2023-07-20 08:15:00"
+        },
+        {
+          "createdBy" : "1",
+          "comment" : "nice to meet you too par again",
+          "dateTime" : "2023-07-20 08:25:00"
+        }
+      ]
+    }
+  ]
+}
