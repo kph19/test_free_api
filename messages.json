@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "success": true,
+    "message": "Messages"
+  },
+  "body": [
+    {
+      "userId" : "1",
+      "lastSeenAt" : 15,
+      "messages" : [
+        {
+          "id" : "1",
+          "message" : "hello"
+        },
+        {
+          "id" : "",
+          "message" : "hello par"
+        },
+        {
+          "id" : "1",
+          "message" : "nay kg larr"
+        },
+        {
+          "id" : "",
+          "message" : "kg pr tl"
+        }
+      ]
+    },
+    {
+      "userId" : "2",
+      "lastSeenAt" : 20,
+      "messages" : [
+        {
+          "id" : "2",
+          "message" : "hello"
+        },
+        {
+          "id" : "",
+          "message" : "hello par"
+        },
+        {
+          "id" : "2",
+          "message" : "nay kg larr"
+        },
+        {
+          "id" : "",
+          "message" : "kg pr tl"
+        }
+      ]
+    },
+    {
+      "userId" : "3",
+      "lastSeenAt" : 0,
+      "messages" : [
+        {
+          "id" : "3",
+          "message" : "hello"
+        },
+        {
+          "id" : "",
+          "message" : "hello par"
+        },
+        {
+          "id" : "3",
+          "message" : "nay kg larr"
+        },
+        {
+          "id" : "",
+          "message" : "kg pr tl"
+        }
+      ]
+    }
+  ]
+}
