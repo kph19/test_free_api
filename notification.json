@@ -1,0 +1,42 @@
+{
+  "meta" : {
+    "status" : true,
+    "message" : "success"
+  },
+  "data" : [
+    {
+      "from" : "1",
+      "to" : "2",
+      "content" : "commented on",
+      "xSeen" : false,
+      "dateTime" : "2023-04-12 08:02"
+    },
+    {
+      "from" : "2",
+      "to" : "1",
+      "content" : "reported on",
+      "xSeen" : true,
+      "dateTime" : "2023-04-12 08:02"
+    },
+    {
+      "from" : "1",
+      "to" : "3",
+      "content" : "commented on",
+      "xSeen" : true,
+      "dateTime" : "2023-04-12 08:02"
+    },
+    {
+      "from" : "4",
+      "to" : "3",
+      "content" : "requested to",
+      "xSeen" : false,
+      "dateTime" : "2023-07-22 08:02"
+    },
+    {
+      "from" : "3",
+      "to" : "4",
+      "content" : "requested to",
+      "xSeen" : false
+    }
+  ]
+}
